@@ -1,4 +1,4 @@
-%Positivo o negativo
+%par o impar
 %Inicio
 clear all 
 clc 
