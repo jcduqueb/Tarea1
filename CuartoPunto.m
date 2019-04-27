@@ -1,4 +1,4 @@
-%Muestre tres números de mayor a menor
+%Muestre tres números de menor a mayor
 clear all 
 clc 
 close all 
